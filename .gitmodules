@@ -4,5 +4,5 @@
 	branch = main
 [submodule "tests/msccl-tests-nccl"]
 	path = tests/msccl-tests-nccl
-	url = https://github.com/Azure/msccl-tests-nccl.git
-	branch = main
+	url = https://github.com/NVIDIA/nccl-tests.git
+	branch = master
